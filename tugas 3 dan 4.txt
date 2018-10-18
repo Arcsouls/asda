@@ -1,0 +1,9 @@
+Buatlah kode program dari soal di bawah ini
+
+Terdapat bangun ruang berupa balok. Balok memiliki panjang, lebar dan tinggi.
+Apabila panjang/lebar/tinggi bernilai 0 maka dia otomatis bernilai 1.
+Balok dapat dihitung luas permukaan dan volume
+
+Gunakan fungsi konstruktor
+
+Format pengumpulan nim_nama.zip
